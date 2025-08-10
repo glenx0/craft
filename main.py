@@ -9,4 +9,4 @@ with open("log.txt", "a", encoding="utf-8") as f:
 
 print("Đã ghi vào log:", project)
 
---02--05--07--08
+--02--05--07--08--10
